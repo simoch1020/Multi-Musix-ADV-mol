@@ -6,9 +6,9 @@ const { Classic } = require("musicard");
 const { prefix } = require('./config.json');
 const nodes = [
     {
-    host: "v4.lavalink.rocks",        
+    host: "lava4.horizxon.studio",        
     port: 80,
-    password: "horizxon.tech",
+    password: "horizxon.studio",
     secure: false
 },
 ];
