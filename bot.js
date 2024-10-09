@@ -5,12 +5,41 @@ const fs = require("fs");
 const { Classic } = require("musicard");
 const { prefix } = require('./config.json');
 const nodes = [
-    {
-        host: "lavalink-v4.huntools-bot.xyz",
-        port: 443, 
-        password: "youshallnotpass", 
-         secure: true
-      },
+    Asia Pacific (Mumbai) 🇮🇳
+
+{
+    host: "lava4.horizxon.studio",        
+    port: 80,
+    password: "horizxon.studio",
+    secure: false
+}
+
+Europe (Frankfurt) 🇩🇪
+
+{
+    host: "lava3.horizxon.studio",        
+    port: 80,
+    password: "horizxon.studio",
+    secure: false
+}
+
+US West (N. California) 🇺🇸
+
+{
+    host: "lava2.horizxon.studio",        
+    port: 80,
+    password: "horizxon.studio",
+    secure: false
+}
+
+Asia Pacific (Singapore) 🇸🇬
+
+{
+    host: "lava1.horizxon.studio",        
+    port: 80,
+    password: "horizxon.studio",
+    secure: false
+},
 ];
 
 
