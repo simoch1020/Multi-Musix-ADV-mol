@@ -5,14 +5,14 @@ const fs = require("fs");
 const { Classic } = require("musicard");
 const { prefix } = require('./config.json');
 const nodes = [
-    {
-        name: "Working1",
-        host: "nodev4.fypmoon.org",
-        port: 1118,
-        password: "fypmoon.org",
-        reconnectTimeout: 5000,
-        reconnectTries: Infinity,
-        secure: false
+        {
+        "identifier": "US",
+        "host": "node.itzrandom.cloud",
+        "port": 9000,
+        "password": "lavalink@itzrandomcloud",
+        "secure": false,
+        "restVersion": "v4",
+        "authorId": "878975596623986700"
     },
 ];
 
