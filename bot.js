@@ -5,7 +5,7 @@ const fs = require("fs");
 const { Classic } = require("musicard");
 const { prefix } = require('./config.json');
 const nodes = [
-{
+    {
         "identifier": "Elf V4 Lights.out.",
         "host": "LavaLink4.lightsout.in",
         "port": 40069,
