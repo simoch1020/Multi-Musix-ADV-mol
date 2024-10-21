@@ -5,14 +5,14 @@ const fs = require("fs");
 const { Classic } = require("musicard");
 const { prefix } = require('./config.json');
 const nodes = [
-        {
-        "identifier": "US",
-        "host": "node.itzrandom.cloud",
-        "port": 9000,
-        "password": "lavalink@itzrandomcloud",
+{
+        "identifier": "Elf V4 Lights.out.",
+        "host": "LavaLink4.lightsout.in",
+        "port": 40069,
+        "password": "LightsoutOwnsElves",
         "secure": false,
         "restVersion": "v4",
-        "authorId": "878975596623986700"
+        "authorId": "612666923502796818"
     },
 ];
 
